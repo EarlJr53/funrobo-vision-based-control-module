@@ -54,5 +54,7 @@ $ pip install -r requirements.txt
 
 - If setup worked well, you should be able to open the **lesson1.ipynb** in VS Code and start working!
 
+- When returning to work on lesson2, please make sure you run step 4 again as new packages have been added. If the setup worked well, you should be able to open the **lesson2.ipynb** in VS Code and start working!
+
 
 N.B. Please make sure you select the python interpreter associated with the virtual environment you just created when running the Jupyter notebook.
